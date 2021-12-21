@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  deploymentBranch: 'main',
+  deploymentBranch: 'gh-pages',
   organizationName: 'studiokain', // Usually your GitHub org/user name.
   projectName: 'studiokain.github.io', // Usually your repo name.
 
